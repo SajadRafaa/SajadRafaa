@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- ⚡ Fun fact: ...
+| ⚡ Fun fact: ...
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
