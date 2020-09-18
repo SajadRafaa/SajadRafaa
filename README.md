@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
+study in univer sity of basra translation department | I :heart: coding  I can 
 
 - ⚡ Fun fact: ...
 
