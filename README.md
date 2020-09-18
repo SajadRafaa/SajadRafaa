@@ -13,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [telegram][linkedin]
+
+
+[website]: https://bradgarropy.com
+[instagram]: https://instagram.com/bradgarropy
+[telegram]: https://linkedin.com/in/bradgarropy
+
