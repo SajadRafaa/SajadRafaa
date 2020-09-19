@@ -10,7 +10,7 @@ study in univer sity of basra translation department | I :heart: coding  I can m
 📷 [instagram][instagram] **|** 
 ◀️ [telegram][telegram]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://raw.githubusercontent.com/SajadRafaa/SajadRafaa/master/banner.png
 [website]: https://sajad.netlify.com
 [instagram]: https://instagram.com/sjk.69
 [telegram]: https://t.me/zrh2002
