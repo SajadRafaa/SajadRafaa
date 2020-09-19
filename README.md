@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-study in univer sity of basra translation department | I :heart: coding  I can 
+study in univer sity of basra translation department | I :heart: coding  I can make a front end web pages , Cross platform mobile app & project manager :)
 
 - ⚡ Fun fact: ...
 
