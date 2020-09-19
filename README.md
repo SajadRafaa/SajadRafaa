@@ -2,7 +2,7 @@
 ## Hi there i'm Sajad Rafaa :smiley:
 
 
-study in university of basra translation department , I :heart: coding  I can make a front end web pages , Cross platform mobile app & project manager :)
+study in university of basra translation department , I :heart: coding  I can make a front end web pages , Cross platform mobile app & i'm a project manager :)
 
 - ⚡ Fun fact: i can make tutorials about dart & flutter :sunglasses:
 ### find me on social media:-
