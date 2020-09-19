@@ -4,7 +4,7 @@
 
 study in university of basra translation department , I :heart: coding  I can make a front end web pages , Cross platform mobile app & project manager :)
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i can make tutorials about dart & flutter :sunglasses:
 ### find me on social media:-
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
